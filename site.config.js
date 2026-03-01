@@ -5,7 +5,7 @@ const CONFIG = {
     image: "/shkisme.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Backend Engineer",
     bio: "빛나는 개발자가 되기 위해...✨",
-    email: "shkisme0130@gmail.com",
+    email: "shkisme@kbs.co.kr",
     linkedin: "shkisme",
     github: "shkisme",
     instagram: "shkisme",
@@ -59,7 +59,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "shkisme/borums-light",
       "issue-term": "og:title",
