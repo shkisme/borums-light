@@ -9,142 +9,10 @@
             <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Dec 2024 20:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 08:11:25 GMT</lastBuildDate>
         <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Dec 2024 20:15:51 GMT</pubDate>
-        <copyright><![CDATA[All rights reserved 2024]]></copyright>
-        <item>
-            <title><![CDATA[시뮬레이션]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/simulation</link>
-            <guid isPermaLink="true">http://localhost:3000/simulation</guid>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[백트래킹]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/backtracking</link>
-            <guid isPermaLink="true">http://localhost:3000/backtracking</guid>
-            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[정렬 알고리즘 (1)]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">선택 정렬, 버블 정렬, 머지 소트, 퀵 소트 정렬 알고리즘들을 정리했습니다.</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/sort-1</link>
-            <guid isPermaLink="true">http://localhost:3000/sort-1</guid>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BFS와 DFS]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/BFS-DFS</link>
-            <guid isPermaLink="true">http://localhost:3000/BFS-DFS</guid>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JPA 연관관계 매핑]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/jpa-relation-mapping</link>
-            <guid isPermaLink="true">http://localhost:3000/jpa-relation-mapping</guid>
-            <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTTP 관련 기본 지식들]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/http-basic</link>
-            <guid isPermaLink="true">http://localhost:3000/http-basic</guid>
-            <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[스택, 큐, 덱]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/Stack-Queue-Deck</link>
-            <guid isPermaLink="true">http://localhost:3000/Stack-Queue-Deck</guid>
-            <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JPA 엔티티 매핑 전략]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/jpa-entity-mapping</link>
-            <guid isPermaLink="true">http://localhost:3000/jpa-entity-mapping</guid>
-            <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JPA의 영속성 컨텍스트]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/jpa-persistance</link>
-            <guid isPermaLink="true">http://localhost:3000/jpa-persistance</guid>
-            <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[스프링의 핵심 원리]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/spring-core</link>
-            <guid isPermaLink="true">http://localhost:3000/spring-core</guid>
-            <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[왜 JPA를 사용하는가?]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/jpa-start</link>
-            <guid isPermaLink="true">http://localhost:3000/jpa-start</guid>
-            <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
+        <pubDate>Sun, 21 Jun 2026 08:11:25 GMT</pubDate>
+        <copyright><![CDATA[All rights reserved 2026]]></copyright>
         <item>
             <title><![CDATA[졸업 과제를 마무리하며]]></title>
             <description><![CDATA[
@@ -156,54 +24,6 @@
             <link>http://localhost:3000/graduation-assignment-retrospect</link>
             <guid isPermaLink="true">http://localhost:3000/graduation-assignment-retrospect</guid>
             <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[요즘 드는 고민들]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/2024-10-20-log</link>
-            <guid isPermaLink="true">http://localhost:3000/2024-10-20-log</guid>
-            <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[배열과 연결 리스트]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/Array-and-LinkedList</link>
-            <guid isPermaLink="true">http://localhost:3000/Array-and-LinkedList</guid>
-            <pubDate>Sat, 21 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[시간 복잡도와 공간 복잡도]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/Time-Space-Complexity</link>
-            <guid isPermaLink="true">http://localhost:3000/Time-Space-Complexity</guid>
-            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[당근 2024 썸머테크 인턴십 서류 합격 및 면접 후기]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/daangn-intern-interview</link>
-            <guid isPermaLink="true">http://localhost:3000/daangn-intern-interview</guid>
-            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[센디 인턴 회고]]></title>
@@ -240,18 +60,6 @@
             <link>http://localhost:3000/product-management-skill</link>
             <guid isPermaLink="true">http://localhost:3000/product-management-skill</guid>
             <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024년 6월 회고]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/2024-06-log</link>
-            <guid isPermaLink="true">http://localhost:3000/2024-06-log</guid>
-            <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[센디 자체 주소 검색 시스템 릴리즈]]></title>
@@ -302,18 +110,6 @@
             <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2024년 5월 회고]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/2024-05-log</link>
-            <guid isPermaLink="true">http://localhost:3000/2024-05-log</guid>
-            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DRIVE]]></title>
             <description><![CDATA[
         <div>
@@ -348,18 +144,6 @@
             <link>http://localhost:3000/ElasticSearch-Juso-Search-1</link>
             <guid isPermaLink="true">http://localhost:3000/ElasticSearch-Juso-Search-1</guid>
             <pubDate>Sat, 18 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024년 4월 회고]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/2024-04-log</link>
-            <guid isPermaLink="true">http://localhost:3000/2024-04-log</guid>
-            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[육각형 개발자]]></title>
@@ -422,18 +206,6 @@
             <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2024년 3월 회고]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/2024-03-log</link>
-            <guid isPermaLink="true">http://localhost:3000/2024-03-log</guid>
-            <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[함께 자라기]]></title>
             <description><![CDATA[
         <div>
@@ -446,18 +218,6 @@
             <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BDD 세미나 기술 발표 - BDDictionary]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">BDD 첫 세미나에서 내가 만들어 본 객체 지향 소프트웨어를 주제로 기술 발표를 했습니다.</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/BDDictionary</link>
-            <guid isPermaLink="true">http://localhost:3000/BDDictionary</guid>
-            <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[첫 오픈소스 기여!]]></title>
             <description><![CDATA[
         <div>
@@ -468,18 +228,6 @@
             <link>http://localhost:3000/my-first-open-source-contribution</link>
             <guid isPermaLink="true">http://localhost:3000/my-first-open-source-contribution</guid>
             <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024년 2월, 그리고 겨울방학 회고]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/2024-02-log</link>
-            <guid isPermaLink="true">http://localhost:3000/2024-02-log</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[캡스톤 디자인 경진대회 최우수상 수상]]></title>
@@ -513,21 +261,9 @@
             <div class="isPinned">false</div>
         </div>
     ]]></description>
-            <link>http://localhost:3000/센디-면접-후기</link>
-            <guid isPermaLink="true">http://localhost:3000/센디-면접-후기</guid>
+            <link>http://localhost:3000/1</link>
+            <guid isPermaLink="true">http://localhost:3000/1</guid>
             <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024년 1월 회고]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/2024-01-log</link>
-            <guid isPermaLink="true">http://localhost:3000/2024-01-log</guid>
-            <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[프로젝트 기술을 택할 때 주의해야 할 것]]></title>
@@ -542,54 +278,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2023년 12월 회고]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">undefined</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/2023-12-log</link>
-            <guid isPermaLink="true">http://localhost:3000/2023-12-log</guid>
-            <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[스프링 플레이 그라운드 스터디] Spring Core]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">3주차 미션을 수행하며 Spring 프레임워크의 Core를 학습해 보았습니다.</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/spring-study-spring-core</link>
-            <guid isPermaLink="true">http://localhost:3000/spring-study-spring-core</guid>
-            <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[스프링 플레이 그라운드 스터디] Spring JDBC]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">2주차 미션을 구현해보며 Spring JDBC를 익혀봅니다.</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/spring-study-jdbc</link>
-            <guid isPermaLink="true">http://localhost:3000/spring-study-jdbc</guid>
-            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[스프링 플레이 그라운드 스터디] Spring MVC]]></title>
-            <description><![CDATA[
-        <div>
-            <div class="content">스프링 플레이 그라운드 스터디에서 미션 1~4단계를 구현해보며 Spring MVC를 익혀봅니다.</div>
-            <div class="isPinned">false</div>
-        </div>
-    ]]></description>
-            <link>http://localhost:3000/spring-play-ground-study-springMVC</link>
-            <guid isPermaLink="true">http://localhost:3000/spring-play-ground-study-springMVC</guid>
-            <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[개발 동아리 BDD 개설]]></title>
             <description><![CDATA[
         <div>
@@ -597,8 +285,8 @@
             <div class="isPinned">false</div>
         </div>
     ]]></description>
-            <link>http://localhost:3000/BDD-개설-배경</link>
-            <guid isPermaLink="true">http://localhost:3000/BDD-개설-배경</guid>
+            <link>http://localhost:3000/3</link>
+            <guid isPermaLink="true">http://localhost:3000/3</guid>
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -609,8 +297,8 @@
             <div class="isPinned">false</div>
         </div>
     ]]></description>
-            <link>http://localhost:3000/precourse-2주차-회고</link>
-            <guid isPermaLink="true">http://localhost:3000/precourse-2주차-회고</guid>
+            <link>http://localhost:3000/2</link>
+            <guid isPermaLink="true">http://localhost:3000/2</guid>
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -633,8 +321,8 @@
             <div class="isPinned">false</div>
         </div>
     ]]></description>
-            <link>http://localhost:3000/precourse-1주차-회고</link>
-            <guid isPermaLink="true">http://localhost:3000/precourse-1주차-회고</guid>
+            <link>http://localhost:3000/4</link>
+            <guid isPermaLink="true">http://localhost:3000/4</guid>
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
